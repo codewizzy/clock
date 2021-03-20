@@ -1,3 +1,3 @@
 # clock
 
-Build a clock using JS.
+Build a clock using HTML and JavaScript.
